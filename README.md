@@ -8,7 +8,7 @@ I will use my Excel skills to answer this question.
 
 ## Link to the original dataset:
 
-https://www.kaggle.com/datasets/datasnaek/youtube-new
+https://www.kaggle.com/datasets/datasnaek/youtube-new (note: I selected the US Data subset for this project)
 
 ## Findings/Conclusion
 
